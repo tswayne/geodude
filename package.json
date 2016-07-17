@@ -1,0 +1,20 @@
+{
+  "name": "geodude",
+  "version": "0.0.1",
+  "description": "Map api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "hapi": "^13.4.1",
+    "map-gen": "^0.1.0",
+    "mysql": "^2.0.0-alpha8",
+    "orm": "^3.1.0",
+    "request": "^2.72.0",
+    "spiderweb-client": "git@github.com:tswayne/spiderweb-client.git"
+  }
+}
